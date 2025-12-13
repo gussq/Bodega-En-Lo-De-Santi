@@ -1,9 +1,11 @@
 # Bodega-En-Lo-De-Santi
-REPOSITORIO PARA EL SISTEMA DE LA BODEGA EN LO DE SANTI
-PASOS PARA SU USO
-1- INSTALAR POSTGRES SQL
-2- EJECTURAR EL ARCHIVO SQL QUE HAY EN EL REPOSITORIO 
-3- INICIAR EL EXE DEL SISTEMA 
-OBS: LE VA A SALIR ALGO DE CONEXION NO ESTABLECIDA O ALGO ASI LO UNICO QUE HAY QUE HACER ES 
-INICIAR EL SISTEMA E IR AL ICONO DE UNA DB QUE HAY AHI Y COLOCAR LOS DATOS DE CONEXION 
-LISTO.
+Repositorio del Sistema de Gestión de Bodega – Lo de Santi
+Este repositorio contiene el sistema de gestión de la bodega Lo de Santi, junto con los pasos necesarios para su correcta instalación y uso.
+Pasos para la instalación y uso
+ 1- Instalar PostgreSQL.
+ 2- Ejecutar el archivo SQL incluido en el repositorio para crear la base de datos.
+ 3- Iniciar el archivo .exe del sistema.
+Observaciones
+ - Al iniciar el sistema por primera vez, puede aparecer un mensaje indicando que la conexión a la base de datos no está establecida.
+ - En ese caso, simplemente ingrese al sistema, diríjase al ícono de configuración de la base de datos y complete los datos de conexión correspondientes.
+ - Una vez configurada la conexión, el sistema quedará listo para su uso.
